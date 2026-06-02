@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mediapipe
+joblib
+numpy
+pyttsx3
+scikit-learn
