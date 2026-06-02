@@ -1,7 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 mediapipe
 joblib
 numpy
-pyttsx3
 scikit-learn
+pyttsx3
